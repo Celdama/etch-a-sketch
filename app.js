@@ -9,3 +9,14 @@ const makeGrid = (numOfSquare) => {
 };
 
 makeGrid(256)
+
+
+
+
+const squares = Array.from(document.querySelectorAll('.square'));
+squares.forEach(square => {
+  square.addEventListener('mouseover', (e) => {
+    e.target.style.backgroundColor = 'cadetblue'
+  })
+})
+
