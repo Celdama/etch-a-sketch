@@ -1,0 +1,24 @@
+{
+  "name": "etch-a-sketch",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000e\u0000t\u0000c\u0000h\u0000-\u0000a\u0000-\u0000s\u0000k\u0000e\u0000t\u0000c\u0000h\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Celdama/etch-a-sketch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Celdama/etch-a-sketch/issues"
+  },
+  "homepage": "https://github.com/Celdama/etch-a-sketch#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2"
+  }
+}
