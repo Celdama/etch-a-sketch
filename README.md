@@ -28,7 +28,7 @@ If you want to test the game you can clone the local repo and run it in your bro
 - Control Structures
 - function expression
 - object event
-- css Grid
+- CSS Grid
 - addEventListener
 
 ## Next steps
