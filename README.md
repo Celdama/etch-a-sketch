@@ -23,6 +23,13 @@ If you want to test the game you can clone the local repo and run it in your bro
 # cd etch-a-sketch
 # you can launch a local server or open the index.html file
 ``` 
+## JavaScript Used
+- DOM Manipulation
+- Control Structures
+- function expression
+- object event
+- css Grid
+- addEventListener
 
 ## Next steps
 - add styles 
